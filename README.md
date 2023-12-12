@@ -23,7 +23,19 @@ To use these scripts, clone this repository to your local machine using:
 
 Each script can be run independently, depending on your requirements:
 
+- **Automated Backup:**
+  ```bash
   python automatedbackup.py
+
+- **Database Health Monitor:**
+  ```bash
   python dbhealthmonitor.py
+
+- **Log File Analyzer:**
+  ```bash
   python log-file-analyzer.py
+
+- **Server Health Check:**
+  ```bash
   python serverhealthcheck.py
+
